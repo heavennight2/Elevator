@@ -5,7 +5,7 @@ using System.Collections;
 public class ElevatorManager : MonoBehaviour
 {
     public Animator elevatorAnimator;
-    public float waitTime = 5f;
+    public float waitTime = 10f;
 
     void Start()
     {
